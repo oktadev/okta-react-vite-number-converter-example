@@ -1,3 +1,5 @@
+[![Support Ukraine Badge](https://bit.ly/support-ukraine-now)](https://github.com/support-ukraine/support-ukraine)
+
 # Vite Number Converter
 
 This project was bootstrapped with [Vite](https://vitejs.dev/).
