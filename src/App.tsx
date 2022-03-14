@@ -1,5 +1,5 @@
 import './App.css'
-import { Link, Route, Switch } from "react-router-dom";
+import { Link, Route, Switch } from 'react-router-dom';
 import Home from './components/Home';
 import Converter from './components/Converter';
 import { LoginCallback, SecureRoute } from '@okta/okta-react';
